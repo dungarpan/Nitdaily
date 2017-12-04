@@ -1,0 +1,48 @@
+.mainwindow{
+	background-color: #000000;
+}
+
+.subheading{
+	margin:auto;
+	color:white;
+}
+.navbar-brand {
+	float:none;}
+
+.headnavbar{
+	padding-top:1.5%;
+}
+.mainheading{
+	font-size: 4em;
+	color: white;
+	font-family: Vollkorn SC;
+	vertical-align: :middle;
+}
+
+.subheading{
+	font-size: 1.5em;
+	font-family: Vollkorn SC;	
+}
+
+.maincarousel{
+	width: 70%;
+	text-align: middle;
+	margin:auto;
+	background-color: black;
+}
+
+.carousel-img{
+	opacity: 0.8;
+}
+
+.clubs{
+
+}
+
+.club{
+	background-color: white;
+	height:40%;
+	margin-bottom: 1%;
+	margin-right:-2px;
+	border:1px solid black;
+}
